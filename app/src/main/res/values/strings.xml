@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KR2</string>
+    <string name="buttonPlay">Играть</string>
+    <string name="startName">Игрок</string>
+    <string name="editHint">Введите имя</string>
+    <string name="buttonReg">Войти</string>
+    <string name="buttonUnreg">Выйти</string>
+    <string name="buttonRank">Статистика</string>
+    <string name="listitemname">name</string>
+    <string name="listitemscope">0</string>
+</resources>
